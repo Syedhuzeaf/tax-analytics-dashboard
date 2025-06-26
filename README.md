@@ -35,9 +35,9 @@ The Excel file contains:
 
 | File Name | Description |
 |-----------|-------------|
-|📊 [Download and Explore the Interactive Excel Dashboard](./Tax_Dashboard.xlsx.xlsx)
-| `SQL_Queries.sql` | All queries for analysis (Revenue, GST, TDS, etc.) |
-| `tax_data.csv` | Source data used in SQL |
+|📊 [Download and Explore the Interactive Excel Dashboard](./Tax_Dashboard.xlsx.xlsx) | A complete tax analytics dashboard in Excel with SQL insights, slicers, pivots, and audit tracking.|
+| 🧠 [SQL Queries Used in Analysis](./tax_dashboard_queries.sql)| All queries for analysis (Revenue, GST, TDS, etc.) |
+| 🧾 [Download Raw Tax Data (CSV Format)](./tax_data.csv) | Source data used in SQL |
 | `README.md` | You’re reading it! |
 
 ---
